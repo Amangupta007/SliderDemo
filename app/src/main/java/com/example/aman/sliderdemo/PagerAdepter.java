@@ -70,11 +70,11 @@ import java.util.ArrayList;
     }
 
 
-    public void addBack(int pos) {
-//        main_image.setImageResource(bg.get(pos - 1));
-//        imageView.setImageResource(arrayList.get(pos - 1));
-        main_image.setColorFilter(main_image.getResources().getColor(setterGetterClasses.get(pos).getColor()), PorterDuff.Mode.SRC_IN);
-    }
+//    public void addBack(int pos) {
+////        main_image.setImageResource(bg.get(pos - 1));
+////        imageView.setImageResource(arrayList.get(pos - 1));
+//        main_image.setColorFilter(main_image.getResources().getColor(setterGetterClasses.get(pos).getColor()), PorterDuff.Mode.SRC_IN);
+//    }
 
 }
 
